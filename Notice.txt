@@ -1,0 +1,1 @@
+Change name of the file "gitignore" from root and client folder, to this name : ".gitignore"
